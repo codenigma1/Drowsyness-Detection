@@ -18,10 +18,10 @@ This project aims to enhance road safety by detecting driver drowsiness in real-
   - Suitable for applications where precision and adaptability are crucial.  
 
   <!-- ![Deep Learning Approach Demo](path/to/deep_learning_demo.gif)   -->
-  <img src="Drowsyness-Detection/Drowsyness_Detection_MediaPipe/media/12.gif" alt="Deep Learning Approach Demo" width="400" height="auto">
-  <img src="Drowsyness-Detection/Drowsyness_Detection_MediaPipe/media/12.gif" alt="Deep Learning Approach Demo" width="400" height="auto">
-  <img src="Drowsyness-Detection/Drowsyness_Detection_MediaPipe/media/12.gif" alt="Deep Learning Approach Demo" width="400" height="auto">
-  <img src="Drowsyness-Detection/Drowsyness_Detection_MediaPipe/media/12.gif" alt="Deep Learning Approach Demo" width="400" height="auto">
+  <img src="Drowsyness-Detection/Drowsyness_Detection_TranferLearning_Inception/media/5.gif" alt="Deep Learning Approach Demo" width="400" height="auto">
+  <img src="Drowsyness-Detection/Drowsyness_Detection_TranferLearning_Inception/media/2.gif" alt="Deep Learning Approach Demo" width="400" height="auto">
+  <img src="Drowsyness-Detection/Drowsyness_Detection_TranferLearning_Inception/media/3.gif" alt="Deep Learning Approach Demo" width="400" height="auto">
+  <img src="Drowsyness-Detection/Drowsyness_Detection_TranferLearning_Inception/media/4.gif" alt="Deep Learning Approach Demo" width="400" height="auto">
   
 
 
