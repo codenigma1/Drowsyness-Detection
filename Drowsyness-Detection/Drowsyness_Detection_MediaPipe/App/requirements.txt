@@ -1,0 +1,4 @@
+mediapipe
+pygame
+opencv-python
+numpy
