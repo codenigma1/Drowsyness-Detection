@@ -43,13 +43,13 @@ This project aims to enhance road safety by detecting driver drowsiness in real-
 ---
 
 ## 📊 Results and Insights
-- **Deep Learning Approach:**
+### **Deep Learning Approach:**
 
 - Achieved high accuracy on test data with fine-tuned InceptionV3.
 - Robust to variations in lighting, face orientation, and head movements.
 - Ideal for systems requiring precision across diverse environments.
 
-- **MediaPipe Approach:**
+### **MediaPipe Approach:**
 
 - Lightweight and efficient for devices with limited resources.
 - Effective when head movements are minimal and neck tilt is not excessive.
