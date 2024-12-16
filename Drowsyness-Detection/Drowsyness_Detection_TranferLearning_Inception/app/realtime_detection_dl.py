@@ -28,11 +28,11 @@ cool_down_duration = st.sidebar.slider("Cool-down Duration (seconds)", min_value
 # Load Haar cascades and the model
 face_cascade = cv2.CascadeClassifier(cv2.data.haarcascades + 'haarcascade_frontalface_default.xml')
 eye_cascade = cv2.CascadeClassifier(cv2.data.haarcascades + 'haarcascade_eye.xml')
-model = tf.keras.models.load_model(os.path.join('..', 'save_models', 'new_best_model.h5'))
+model = tf.keras.models.load_model(os.path.join('load_model', 'new_best_model.h5'))
 
 # Initialize the alarm sound
 mixer.init()
-sound = mixer.Sound(os.path.join('..', 'sounds', 'alarm2.wav'))
+sound = mixer.Sound(os.path.join('media', 'alarm2.wav'))
 
 # Drowsiness variables
 score = 0
