@@ -4,3 +4,4 @@ Pillow==11.0.0
 pygame==2.6.1
 streamlit==1.41.0
 tensorflow==2.16.1
+opencv-python-headless
