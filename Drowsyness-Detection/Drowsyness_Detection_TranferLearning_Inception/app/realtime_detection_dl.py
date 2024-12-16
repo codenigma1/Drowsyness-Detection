@@ -10,6 +10,7 @@ from PIL import Image
 import os
 
 
+
 # Initialize the app
 st.title("Drowsiness Detection System 🛑😴")
 st.write("This application uses a pre-trained model to detect drowsiness in real time. 🚗💤")
@@ -164,4 +165,6 @@ if st.session_state.run_detection:
 
 release_video_capture(st.session_state.cap)
 st.write("Detection stopped 👋")
+
+
 
