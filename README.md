@@ -18,9 +18,12 @@ This project aims to enhance road safety by detecting driver drowsiness in real-
   - Suitable for applications where precision and adaptability are crucial.  
 
   <!-- ![Deep Learning Approach Demo](path/to/deep_learning_demo.gif)   -->
-  <img src="path/to/deep_learning_demo.gif" alt="Deep Learning Approach Demo" width="600" height="auto">
+  <img src="Drowsyness-Detection/Drowsyness_Detection_TranferLearning_Inception/media/5.gif" alt="Deep Learning Approach Demo" width="350" height="auto">
+  <img src="Drowsyness-Detection/Drowsyness_Detection_TranferLearning_Inception/media/2.gif" alt="Deep Learning Approach Demo" width="350" height="auto">
+  <img src="Drowsyness-Detection/Drowsyness_Detection_TranferLearning_Inception/media/3.gif" alt="Deep Learning Approach Demo" width="350" height="auto">
+  <img src="Drowsyness-Detection/Drowsyness_Detection_TranferLearning_Inception/media/4.gif" alt="Deep Learning Approach Demo" width="350" height="auto">
+  
 
-  _*GIF: Demonstrates detection under varying conditions.*_
 
 - **MediaPipe Approach** 🧩  
   - **Lightweight and Efficient**: This method calculates the **Eye Aspect Ratio (EAR)** and monitors head pose without the need for neural network training.  
@@ -28,9 +31,8 @@ This project aims to enhance road safety by detecting driver drowsiness in real-
   - Highly efficient, suitable for resource-constrained devices.  
 
   <!-- ![MediaPipe Approach Demo](path/to/mediapipe_demo.gif)   -->
-  <img src="path/to/deep_learning_demo.gif" alt="Deep Learning Approach Demo" width="600" height="auto">
+  <img src="Drowsyness-Detection/Drowsyness_Detection_MediaPipe/media/12.gif" alt="Deep Learning Approach Demo" width="400" height="auto">
 
-  _*GIF: Demonstrates detection using EAR and head pose.*_
 
 - **Custom Alerts** 🔊  
   - Plays an alarm sound if drowsiness is detected for an extended duration.  
@@ -41,13 +43,13 @@ This project aims to enhance road safety by detecting driver drowsiness in real-
 ---
 
 ## 📊 Results and Insights
-- **Deep Learning Approach:**
+### **Deep Learning Approach:**
 
 - Achieved high accuracy on test data with fine-tuned InceptionV3.
 - Robust to variations in lighting, face orientation, and head movements.
 - Ideal for systems requiring precision across diverse environments.
 
-- **MediaPipe Approach:**
+### **MediaPipe Approach:**
 
 - Lightweight and efficient for devices with limited resources.
 - Effective when head movements are minimal and neck tilt is not excessive.
