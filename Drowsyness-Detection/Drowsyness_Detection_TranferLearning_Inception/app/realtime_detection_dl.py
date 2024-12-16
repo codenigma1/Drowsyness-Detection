@@ -10,7 +10,7 @@ from PIL import Image
 import os
 
 
-
+    
 # Initialize the app
 st.title("Drowsiness Detection System 🛑😴")
 st.write("This application uses a pre-trained model to detect drowsiness in real time. 🚗💤")
